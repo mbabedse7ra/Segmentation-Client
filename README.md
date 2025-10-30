@@ -29,7 +29,7 @@ My responsibilities spanned the analytical and reporting phases of the project:
 * An operational Metabase dashboard for continuous monitoring.
 ## How to Run the Project Locally
 
-1.  **Clone the Repository:** `git clone [Your Repository URL]`
+1.  **Clone the Repository:** `git clone https://github.com/mbabedse7ra/Segmentation-Client`
 2.  Dataset: The required dataset (`Camp_market_Clean_2025.csv`) is included in the root directory of this repository.
 3.  **Run the Analysis:** Execute the steps in `clustering.ipynb` to regenerate the clusters. 
 4.  **BI Setup:** Documentation for the Metabase setup is available in the `docs` folder.
