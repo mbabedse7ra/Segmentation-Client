@@ -10,7 +10,6 @@ This project aimed to optimize a marketing strategy by identifying distinct cust
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) 
 ![Metabase](https://img.shields.io/badge/Metabase-509ee3?style=flat-square&logo=metabase&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ## Business Goal
 
 The main objective was to move beyond generic campaigns by segmenting the customer base into actionable groups. This provided the Marketing team with clear profiles to tailor their communication and budget allocation for a higher return on investment (ROI).
